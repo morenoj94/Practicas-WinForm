@@ -1,0 +1,8 @@
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\Desafío 1\bin\Debug\Desafío 1.exe.config
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\Desafío 1\bin\Debug\Desafío 1.exe
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\Desafío 1\bin\Debug\Desafío 1.pdb
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\Desafío 1\obj\Debug\Desafío 1.csproj.AssemblyReference.cache
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\Desafío 1\obj\Debug\Desafío 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\Desafío 1\obj\Debug\Desafío 1.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\Desafío 1\obj\Debug\Desafío 1.exe
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\Desafío 1\obj\Debug\Desafío 1.pdb

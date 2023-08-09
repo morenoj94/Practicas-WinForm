@@ -1,0 +1,12 @@
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Primera Guia\PracticaConVentanas\PracticaConVentanas\bin\Debug\PracticaConVentanas.exe.config
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Primera Guia\PracticaConVentanas\PracticaConVentanas\bin\Debug\PracticaConVentanas.exe
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Primera Guia\PracticaConVentanas\PracticaConVentanas\bin\Debug\PracticaConVentanas.pdb
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Primera Guia\PracticaConVentanas\PracticaConVentanas\obj\Debug\PracticaConVentanas.csproj.AssemblyReference.cache
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Primera Guia\PracticaConVentanas\PracticaConVentanas\obj\Debug\PracticaConVentanas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Primera Guia\PracticaConVentanas\PracticaConVentanas\obj\Debug\PracticaConVentanas.Properties.Resources.resources
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Primera Guia\PracticaConVentanas\PracticaConVentanas\obj\Debug\PracticaConVentanas.csproj.GenerateResource.cache
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Primera Guia\PracticaConVentanas\PracticaConVentanas\obj\Debug\PracticaConVentanas.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Primera Guia\PracticaConVentanas\PracticaConVentanas\obj\Debug\PracticaConVentanas.exe
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Primera Guia\PracticaConVentanas\PracticaConVentanas\obj\Debug\PracticaConVentanas.pdb
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Primera Guia\PracticaConVentanas\PracticaConVentanas\obj\Debug\PracticaConVentanas.frmPrincipal.resources
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Primera Guia\PracticaConVentanas\PracticaConVentanas\obj\Debug\PracticaConVentanas.frmClasePersona.resources

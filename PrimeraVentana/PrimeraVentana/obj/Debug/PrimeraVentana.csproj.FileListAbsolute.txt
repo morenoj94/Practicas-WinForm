@@ -1,0 +1,11 @@
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\PrimeraVentana\PrimeraVentana\bin\Debug\PrimeraVentana.exe.config
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\PrimeraVentana\PrimeraVentana\bin\Debug\PrimeraVentana.exe
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\PrimeraVentana\PrimeraVentana\bin\Debug\PrimeraVentana.pdb
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\PrimeraVentana\PrimeraVentana\obj\Debug\PrimeraVentana.csproj.AssemblyReference.cache
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\PrimeraVentana\PrimeraVentana\obj\Debug\PrimeraVentana.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\PrimeraVentana\PrimeraVentana\obj\Debug\PrimeraVentana.Properties.Resources.resources
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\PrimeraVentana\PrimeraVentana\obj\Debug\PrimeraVentana.csproj.GenerateResource.cache
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\PrimeraVentana\PrimeraVentana\obj\Debug\PrimeraVentana.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\PrimeraVentana\PrimeraVentana\obj\Debug\PrimeraVentana.exe
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\PrimeraVentana\PrimeraVentana\obj\Debug\PrimeraVentana.pdb
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\PrimeraVentana\PrimeraVentana\obj\Debug\PrimeraVentana.VentanaPrincipal.resources

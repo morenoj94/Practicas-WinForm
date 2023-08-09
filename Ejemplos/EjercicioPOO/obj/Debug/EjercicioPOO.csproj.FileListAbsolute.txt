@@ -1,0 +1,8 @@
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\EjercicioPOO\obj\Debug\EjercicioPOO.csproj.AssemblyReference.cache
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\EjercicioPOO\obj\Debug\EjercicioPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\EjercicioPOO\obj\Debug\EjercicioPOO.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\EjercicioPOO\bin\Debug\EjercicioPOO.exe.config
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\EjercicioPOO\bin\Debug\EjercicioPOO.exe
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\EjercicioPOO\bin\Debug\EjercicioPOO.pdb
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\EjercicioPOO\obj\Debug\EjercicioPOO.exe
+C:\Users\Jesus Moreno\Documents\Curso Programacion\C#nivel 2\Primera guia\Ejemplos\EjercicioPOO\obj\Debug\EjercicioPOO.pdb
